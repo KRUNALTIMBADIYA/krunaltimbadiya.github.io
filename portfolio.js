@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Krunal Timbadiya",
   nickname: "WebDeveloper",
   subTitle:
-    "I am Quite Good In Web Development Into java ,c,html I Have Achived More enough Knowledge in that. And Currently Exploring the Field of React .I am Currently Looking For an Internship in javascript,nodejs Or React Because I want to enhance My Knowledge and Learning Capacity.",
+    "I am Quite Good In Web Development Into java ,c, javascript I Have Achived More enough Knowledge in that. And Currently Exploring the Field of React .I am Currently Looking For an Internship in javascript,nodejs Or React Because I want to enhance My Knowledge and Learning Capacity.",
   resumeLink:
     "https://drive.google.com/file/d/12rt9jc0KhtZi2aRf71JaZrIY4bxI9yXj/view?usp=share_link",
   portfolio_repository: "https://github.com/KRUNALTIMBADIYA",
